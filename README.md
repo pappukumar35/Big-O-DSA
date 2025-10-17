@@ -37,7 +37,7 @@
 - `O(1)` → Fastest 💨  
 - `O(n!)` → Slowest 🐢  
 
----
+-----
 
 ## 🧰 2️⃣ Data Structures Complexity Table
 
