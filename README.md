@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/DSA-Time_Complexity-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LeetCode-Notebook-orange?style=for-the-badge"/>
 </p>
-
 <p align="center">
   🚀 Master <b>Big O Notation</b> with this interactive-style notebook built for 
   <b>DSA, LeetCode, and Interview Preparation</b>!  
