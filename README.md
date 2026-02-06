@@ -275,7 +275,7 @@ Each call adds a new frame → grows linearly with recursion depth.
 19. What’s the space complexity of recursion with depth n?  
 20. Explain Master Theorem Case 3 with an example.
 
----
+----------
 
 # 💾 5️⃣ Space Complexity Insights (20 Questions)
 
