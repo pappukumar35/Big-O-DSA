@@ -59,7 +59,7 @@
 ### Sorting Algorithms
 
 | Algorithm | Best | Average | Worst | Space |
-|------------|-------|----------|--------|--------|
+|------------|-------|----------|--|--------|
 | 🫧 Bubble Sort | O(n) | O(n²) | O(n²) | O(1) |
 | ✂️ Selection Sort | O(n²) | O(n²) | O(n²) | O(1) |
 | 📥 Insertion Sort | O(n) | O(n²) | O(n²) | O(1) |
