@@ -96,7 +96,7 @@ Where:
 - `f(n)` = cost outside recursive calls  
 
 | Case | Condition | Complexity |
-|------|------------|-------------|
+|------|------------|-----|
 | Case 1 | f(n) < n^(log_b a) | O(n^(log_b a)) |
 | Case 2 | f(n) = n^(log_b a) | O(n^(log_b a) log n) |
 | Case 3 | f(n) > n^(log_b a) | O(f(n)) |
